@@ -1,3 +1,3 @@
-# apples_demo
+# Rachel Tsai
 
-demo pages site.
+A demo pages site to test publishing and commiting to Github.
