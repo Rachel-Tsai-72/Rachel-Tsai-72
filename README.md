@@ -1,4 +1,4 @@
-## Hello, I'm Rachel Tsai 👋 <!-- make an icon to put here-->
+## Hello, I'm Rachel Tsai <img src='keel-billed-toucan.png' style="image-rendering: pixelated" height=20>
 
 Currently a biochemist dabbling in coding and data science, I'm interested in using programming to manage, analyze and visualize genomic databases. Hosted here are some little trinkets I've coded for fun.
 #### Stack 
