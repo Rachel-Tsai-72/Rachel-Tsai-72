@@ -1,6 +1,6 @@
 ## Hello, I'm Rachel Tsai <img src='keel-billed-toucan.png' style="image-rendering: pixelated" height=20>
 
-Currently a biochemist dabbling in coding and data science, I'm interested in using programming to manage, analyze and visualize genomic databases. Hosted here are some little trinkets I've coded for fun.
+Currently a biochemist dabbling in coding and data science, I'm interested in using programming to manage, analyze and visualize genomic databases. Hosted here are some little trinkets I made for fun.
 #### Stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
